@@ -1,0 +1,10 @@
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\bin\Debug\aula03-exercicio02.exe.config
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\bin\Debug\aula03-exercicio02.exe
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\bin\Debug\aula03-exercicio02.pdb
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03-exercicio02.csprojResolveAssemblyReference.cache
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03_exercicio02.FrmLogin.resources
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03_exercicio02.Properties.Resources.resources
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03-exercicio02.csproj.GenerateResource.Cache
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03-exercicio02.exe
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03-exercicio02.pdb
+D:\ \Etec\2 Semestre\C#\aula03-exercicio02\aula03-exercicio02\obj\Debug\aula03_exercicio02.FrmSplash.resources
